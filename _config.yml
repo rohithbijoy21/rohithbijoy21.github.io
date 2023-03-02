@@ -1,0 +1,56 @@
+title: Cumi-Blue Tracker
+author: Rohith bijoy
+email: rohithbijoy21@aol.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Cumi Blue is one of the 
+    latest plants in CUMI EDA.
+    Also known as solgel plant.
+CUMI EMD setup cumi blue plant 
+    as a facility for manufacturing  Azure-s,
+     a sintered alumina abrasive.
+Azure is a Greek word meaning bright blue
+    color and “S” denotes solgel process.
+Cumi blue is a young charming dynamic plant
+    still growing to its capacity in terms of quantity
+    and variety of products.
+
+
+# social links
+twitter_username: rohithbijoy21
+github_username:  rohithbijoy21
+rss: rss
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
